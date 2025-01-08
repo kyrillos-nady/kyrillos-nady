@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Kyrillos Nady </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Jr+Penetration+Tester;Web+Pentest;Computer+Science+Student;CTF+Newbie;Active+Learner/Researcher;Love+to+learn+new+stuffs&hearts"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Penetration+Tester;Application+Pentest;Security+Engineer;Computer+Science+Student;CTF+Newbie;Active+Learner/Researcher;Love+to+learn+new+stuffs&hearts"></a>
 </p>
 
 <br>
@@ -10,7 +10,7 @@
 
 <br>
 
-## Ethical Hacker | Penetration Tester | Web Pentest
+## Ethical Hacker | Penetration Tester | Security Engineer 
 
 Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, and continuous learning in the ever-evolving world of technology.
 
